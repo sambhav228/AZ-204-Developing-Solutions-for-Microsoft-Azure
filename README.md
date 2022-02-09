@@ -4,7 +4,7 @@ Azure Developer Associate
 ## What you will learn From Here:
 
 => develop Azure compute solutions; <br>
-=> develop for Azure storage; 
-=> implement Azure security; 
-=> monitor, troubleshoot, and optimize Azure solutions; 
-=> and connect to and consume Azure services and third-party services.
+=> develop for Azure storage; <br>
+=> implement Azure security; <br>
+=> monitor, troubleshoot, and optimize Azure solutions; <br>
+=> and connect to and consume Azure services and third-party services. <br>
