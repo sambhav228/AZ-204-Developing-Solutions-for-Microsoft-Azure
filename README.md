@@ -11,3 +11,5 @@ Azure Developer Associate
 => and connect to and consume Azure services and third-party services. <br>
 
 ---
+
+The AZ-204 exam covers the skills a developer needs to plan, implement, monitor, and optimize optimal Azure solutions.
